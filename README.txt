@@ -1,4 +1,4 @@
-__MedGenAI__
+# MedGenAI
 
 ## Overview
 MedGenAI is a cutting-edge healthcare platform leveraging generative AI to revolutionize diagnostics, treatment plans, and medical data management. This project integrates multimodal AI solutions, combining advanced language models and medical imaging technologies to provide a comprehensive healthcare solution.
