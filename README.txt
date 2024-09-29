@@ -22,6 +22,3 @@ MedGenAI is a cutting-edge healthcare platform leveraging generative AI to revol
 8. AI Models: GPT-4, PaLM2</br>
 9. Hugging Face Transformers</br>
 10. Digital Report Simulation Models</br>
-
-<h2>Project Screenshots:</h2>
-
