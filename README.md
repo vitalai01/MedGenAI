@@ -22,3 +22,10 @@ MedGenAI is a cutting-edge healthcare platform leveraging generative AI to revol
 - AI Models: GPT-4, PaLM2
 - Hugging Face Transformers
 - Digital Report Simulation Models
+
+## Team Members
+- Mainak Dasgupta
+- Rudraneel Bhattacharyya
+- Tanisha Nath
+- Tanmoy Sarkar
+- Debalina Ghosh
