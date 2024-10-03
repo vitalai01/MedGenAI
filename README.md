@@ -24,8 +24,8 @@ MedGenAI is a cutting-edge healthcare platform leveraging generative AI to revol
 - Digital Report Simulation Models
 
 ## Team Members
-- Tanisha Nath
-- Debalina Ghosh
 - Tanmoy Sarkar
+- Debalina Ghosh
+- Tanisha Nath
 - Mainak Dasgupta
 - Rudraneel Bhattacharyya
